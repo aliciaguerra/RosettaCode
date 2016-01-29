@@ -1,0 +1,6 @@
+You have 100 doors that are initially closed. You make 100 passes by the doors. 
+The first time through, you visit every door and toggle the door (if the door is closed you open it;
+if it is open, you close it).
+The second time you only visit every second door (door #2, #4, #6, etc). The third time 
+you only visit every third door (#3, #6, #9) until you only visit the hundredth door.
+What state are the doors in after the last pass? Which are open? Which are closed?
