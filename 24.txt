@@ -1,0 +1,13 @@
+The 24 game tests one's mental arithmetic.
+Write a program that randomly chooses four digits, each from 1 to 9, with repetitions from 1 to 9.
+The porgram should prompt for the player to enter an arithmetic expression using just those, and all of
+those four digits, used exactly once each.
+The porgram should check then evaluate the expression. The goal is to evaluate an expression that comes out to
+evaluate to 24.
+-only addition, multiplication, and subtraction are allowed
+-division should use floating point of rational arithmetic
+-brackets are allowed, if using an infix expression operator
+-forming multiple digit numbers from the supplied digits is disallowed.
+-The order of the digits when given does not have to be preserved.
+-The type of expression evaluator is not mandated. An RPN evaluator is equally acceptable for example.
+-The task is not for the program to generate the expression, or to test whether an expression is even possible.
